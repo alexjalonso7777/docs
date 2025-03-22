@@ -1,4 +1,4 @@
----
+https://you.com/?chatMode=user_mode_9586216c-9c09-4573-9d85-9958139b858e---
 title: Site policy documentation
 shortTitle: Site policy
 redirect_from:
